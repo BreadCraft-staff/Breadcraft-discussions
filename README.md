@@ -1,2 +1,2 @@
 # Breadcraft-discussions
-This repositories purpose is to act as a central discussion hub for our github repos
+This repositorie's purpose is to act as a central discussion hub for our Github repos
